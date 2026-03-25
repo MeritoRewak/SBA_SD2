@@ -15,3 +15,4 @@ if __name__ == "__main__":
     print(f"Triangle Area (b=10, h=5): {triangle_area(10, 5)}")
     print(f"Square Area (a=4): {square_area(4)}")
     print(f"Circle Area (a=4): {circle_area(4)}")
+    #nowa linia
