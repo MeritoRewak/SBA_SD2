@@ -12,3 +12,4 @@ def test_circle():
     # Verification for the new function from Role B
     # Using a small delta for float comparison is good practice
     assert circle_area(1) == 3.141592653589793
+    
