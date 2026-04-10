@@ -1,7 +1,6 @@
 name: Engineering Check
 on: [push] # The trigger: run every time code is pushed
 
-
 jobs:
   run-validation:
     runs-on: ubuntu-latest # Requesting a fresh Linux VM from GitHub
